@@ -1,0 +1,4 @@
+public - Archivos estáticos (img, audio, video, fuentes, etc)
+src -
+
+SPA - single play animation
