@@ -1,9 +1,7 @@
-const Title = ({ name, number }) => {
-	return (
-		<h1>
-			Hola {name} - {number}
-		</h1>
-	);
+import { StyledTitle } from './title.styles';
+
+const Title = ({ $color }) => {
+	return <StyledTitle>SEDANS</StyledTitle>;
 };
 
 export default Title;
